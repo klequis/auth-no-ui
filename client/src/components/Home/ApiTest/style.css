@@ -1,0 +1,17 @@
+.wrapper {
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+}
+.api-test {
+  margin: 10px 0 0 0;
+}
+.success {
+  color: green;
+}
+.failure {
+  color: red;
+}
+.ul-status {
+  text-align: left;
+}
